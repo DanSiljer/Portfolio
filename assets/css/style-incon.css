@@ -1,0 +1,180 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
+
+* {
+  pad: 0;
+  margin: 0;
+  box-sizing: border-box;
+ 
+}
+
+a {
+  text-decoration: none; /*tirar sublinhado*/
+}
+
+
+.inconSmiles {
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  left: 323px;
+  top: 910px;
+
+  background: #212121;
+}
+
+#meuNome {
+  /* Meu Nome */
+  position: absolute;
+  width: 94px;
+  height: 23px;
+  left: 307px;
+  top: 991px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+
+  color: #f9f9f9;
+}
+
+#meuNome2 {
+  /* Danusa Jesus */
+  position: absolute;
+  left: 301px;
+  top: 1019px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #828282;
+}
+
+.inconEmail {
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  left: 575px;
+  top: 910px;
+
+  background: #212121;
+}
+#email {
+  /* E-mail */
+
+  position: absolute;
+  width: 57px;
+  height: 23px;
+  left: 577px;
+  top: 991px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+
+  color: #f9f9f9;
+}
+
+#email2 {
+  /* dansiljer@hotmail.com */
+  position: absolute;
+  width: 167px;
+  height: 21px;
+  left: 522px;
+  top: 1019px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #828282;
+}
+.inconSocial {
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  left: 823px;
+  top: 910px;
+  background: #212121;
+}
+#social {
+  /* Instagram */
+
+  position: absolute;
+  width: 88px;
+  height: 23px;
+  left: 810px;
+  top: 991px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+
+  color: #f9f9f9;
+}
+#social2 {
+  /*   border: 2px solid #00df5e; */
+
+  position: absolute;
+  width: 77px;
+  height: 21px;
+  left: 799px;
+  top: 1019px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  text-align: center;
+  /* identical to box height */
+
+  color: #828282;
+}
+.inconTelefone {
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  left: 1053px;
+  top: 910px;
+
+  background: #212121;
+}
+#telefone {
+  /* Telefone */
+  position: absolute;
+  width: 74px;
+  height: 23px;
+  left: 1047px;
+  top: 991px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+
+  color: #f9f9f9;
+}
+#telefone2 {
+  /* (99) 99999-9999 */
+  position: absolute;
+  width: 130px;
+  height: 21px;
+  left: 1019px;
+  top: 1019px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #828282;
+}

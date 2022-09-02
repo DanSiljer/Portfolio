@@ -1,0 +1,27 @@
+
+
+.card {
+  box-sizing: border-box;
+  position: absolute;
+  width: 350px;
+  height: 240px;
+  left: 150px;
+  /* top: 1239px; */
+
+  background: #212121;
+  border: 1px solid #333333;
+}
+
+.imgCard {
+  box-sizing: border-box;
+  position: absolute;
+  width: 300px;
+  height: 130px;
+  left: 175px;
+  top: 120px;
+
+  background: #171717;
+  border: 1px solid #333333;
+}
+
+
